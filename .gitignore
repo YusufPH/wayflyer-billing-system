@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# TypeScript compiled output
+dist/
+out/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.test
+.env.local
+.env.production.local
+.env.development.local
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE specific files
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
